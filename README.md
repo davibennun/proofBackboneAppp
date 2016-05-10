@@ -1,7 +1,7 @@
 # Simple Backbone App consuming a REST API
 
 This is a front-end app consuming the api directly, without any middleware.
-The API endpoint is http://tradeins.getsandbox.com
+The API endpoint is http://tradeins.getsandbox.com/tradeins
 ```
 GET  /tradeins/ ...... Reads all Tradeins.
 POST /tradeins/ ...... Creates a new Tradein.
