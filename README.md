@@ -24,3 +24,9 @@ parse: function( response ) {
 }
 ```
 source: https://newcome.wordpress.com/2011/02/20/consuming-xml-web-services-in-backbone-js-using-jath/
+
+## Instructions
+Just fork & run:
+```
+php -S localhost:8080
+```
